@@ -1,0 +1,9 @@
+/.venv/
+/images/
+/notes/
+
+learn/**/data/
+learn/**/runs/
+learn/**/*.txt
+learn/**/*.pt
+learn/**/*.yaml
