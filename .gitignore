@@ -2,8 +2,13 @@
 /images/
 /notes/
 
+*/__pycache__/
+
 learn/**/data/
 learn/**/runs/
 learn/**/*.txt
 learn/**/*.pt
 learn/**/*.yaml
+
+*.env
+*.pyc
